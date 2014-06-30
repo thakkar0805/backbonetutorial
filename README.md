@@ -1,4 +1,4 @@
 backbonetutorial
 ================
 
-Learning backbone
+Teaching myself backbone.
